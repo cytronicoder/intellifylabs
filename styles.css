@@ -1,0 +1,23 @@
+body {
+  line-height: 1.6;
+}
+
+main {
+  padding: 2rem;
+  max-width: 900px;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+#job-list .job {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.job h3 {
+  margin-top: 0;
+}
